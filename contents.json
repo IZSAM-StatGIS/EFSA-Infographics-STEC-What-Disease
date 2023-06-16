@@ -1,0 +1,83 @@
+{
+  "humans": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_symptoms.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_whois.svg"},
+      {"title": "Complications", "img": "images/icons/ic_complications.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms.svg"
+      },
+      "incubationPeriod": "",
+      "text": "",
+      "collection": [
+        {"name": "Abdominal cramps", "abstract": "", "img": "images/icons/ic_seizures.svg"},
+        {"name": "Diarrhoea ", "abstract": "", "img": "images/icons/ic_diarrhoea.svg"},
+        {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
+        {"name": "Vomiting", "abstract": "", "img": "images/icons/ic_vomit.svg"}
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois.svg"
+      },
+      "text": "",
+      "collection": [
+        {"name": "Young children", "abstract": "", "img": "images/icons/ic_children.svg"},
+        {"name": "Elderly", "abstract": "", "img": "images/icons/ic_elderly.svg"},
+        {"name": "Immune-compromised people", "abstract": "", "img": "images/icons/ic_immunecomp.svg"}
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications.svg"
+      },
+      "text": "HUS:",
+      "collection": [
+        {"name": "Neurological complications", "abstract": "(such as seizure, strokes, and coma) ", "img": "images/icons/ic_neuro.svg"},
+        {"name": "Thrombotic Microangiopathy", "abstract": "(TMA)", "img": "images/icons/ic_sepsis.svg"},
+        {"name": "Acute renal failure", "abstract": "", "img": "images/icons/ic_kidney.svg"}
+      ]
+    }
+  },
+  "animals": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_animal_symptoms.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_animals_whois.svg"},
+      {"title": "Complications", "img": "images/icons/ic_animals_complications.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms_animals.svg"
+      },
+      "incubationPeriod": "",
+      "text": "Generally asymptomatic",
+      "collection": [
+        {"name": "Diarrhoea", "abstract": "(Occasionally)", "img": "images/icons/ic_diarrhoea.svg"}
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois_animals.svg"
+      },
+      "text": "",
+      "collection": [
+        {"name": "Ruminants", "abstract": "(cattle, sheep, goat, and water buffalo)", "img": "images/icons/ic_ sheep_goat.svg"},
+        {"name": "Pigs", "abstract": "(sporadically)", "img": "images/icons/ic_swine.svg"},
+        {"name": "Horses", "abstract": "(sporadically)", "img": "images/icons/ic_horses.svg"},
+        {"name": "Dogs", "abstract": "(sporadically)", "img": "images/icons/ic_pets_2.svg"},
+        {"name": "Farmed rabbits", "abstract": "(sporadically)", "img": "images/icons/ic_hare.svg"}
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications_animals.svg"
+      },
+      "text": "",
+      "collection": [
+        {"name": "Dehydration", "abstract": "", "img": "images/icons/ic_dehydration.svg"}
+      ]
+    }
+  }
+}
