@@ -9,7 +9,7 @@
       "backgroundImage": {
         "src": "images/backgrounds/symptoms.svg"
       },
-      "incubationPeriod": "",
+      "incubationPeriod": "In symptomatic cases, incubation period usually ranges between 3 to 4 days after exposure (mean incubation period 1-10 days)",
       "text": "",
       "collection": [
         {"name": "Abdominal cramps", "abstract": "", "img": "images/icons/ic_seizures.svg"},
