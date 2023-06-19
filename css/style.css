@@ -242,6 +242,10 @@ html{
   max-height: calc(100vh - 270px);
 }
 
+.d-modal-contents .animals.risk.list-container .w-elem:first-child{
+  width: 100%;
+}
+
 .list-container img{
   height: 75px;
   margin-bottom: 8px;
