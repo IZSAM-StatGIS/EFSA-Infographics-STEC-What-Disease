@@ -33,7 +33,7 @@
       "backgroundImage": {
         "src": "images/backgrounds/complications.svg"
       },
-      "text": "HUS:",
+      "text": "Haemolytic Uremic Syndrome (HUS):",
       "collection": [
         {"name": "Neurological complications", "abstract": "(such as seizure, strokes, and coma) ", "img": "images/icons/ic_neuro.svg"},
         {"name": "Thrombotic Microangiopathy", "abstract": "(TMA)", "img": "images/icons/ic_sepsis.svg"},
